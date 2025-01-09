@@ -12,4 +12,4 @@ he query counts the number of distinct website session IDs for each group,
 providing insights into the most significant sources and campaigns. 
 Finally, it orders the results by the number of sessions in descending order to highlight the top traffic drivers.
 
-Code for Project 1: Finding Top Traffic Sources.sql
+Code for Assigment 1: Finding Top Traffic Sources.sql
